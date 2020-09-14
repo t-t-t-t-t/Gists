@@ -1,0 +1,9 @@
+[submodule "github-repo-gist-mirror-script"]
+	path = github-repo-gist-mirror-script
+	url = https://gist.github.com/jvhaarst/344409b70a99dac726e4
+[submodule "migrate-gitea"]
+	path = migrate-gitea
+	url = https://gist.github.com/mrunkel/59ae2e77e31a724eb4bf810668a2cea7
+[submodule "github-mirror-bash"]
+	path = github-mirror-bash
+	url = https://gist.github.com/jvhaarst/344409b70a99dac726e4
